@@ -1,0 +1,31 @@
+<svg width="1200" height="220" viewBox="0 0 1200 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="220" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1220"/>
+      <stop offset="0.58" stop-color="#111C33"/>
+      <stop offset="1" stop-color="#172B52"/>
+    </linearGradient>
+    <linearGradient id="line" x1="820" y1="22" x2="1120" y2="190" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8CB4FF"/>
+      <stop offset="1" stop-color="#2F6FED"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#9DBAFF" stroke-opacity=".09"/>
+    </pattern>
+    <filter id="blur" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="26"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="220" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="220" rx="18" fill="url(#grid)"/>
+  <circle cx="1030" cy="28" r="120" fill="#2F6FED" fill-opacity=".22" filter="url(#blur)"/>
+  <path d="M768 185C818 132 832 65 898 65C955 65 960 145 1018 145C1069 145 1085 89 1146 35" stroke="url(#line)" stroke-width="2.5"/>
+  <path d="M768 185C818 132 832 65 898 65C955 65 960 145 1018 145C1069 145 1085 89 1146 35" stroke="#DCE8FF" stroke-opacity=".25" stroke-width="9" filter="url(#blur)"/>
+  <circle cx="898" cy="65" r="5" fill="#DCE8FF"/>
+  <circle cx="1018" cy="145" r="5" fill="#DCE8FF"/>
+  <circle cx="1146" cy="35" r="5" fill="#DCE8FF"/>
+  <path d="M64 156H312" stroke="#DCE8FF" stroke-opacity=".22"/>
+  <text x="64" y="82" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700" letter-spacing="-1.2">CHO WON JUN</text>
+  <text x="67" y="113" fill="#AFC7F5" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="2.2">AI / REALTIME GRAPHICS / CREATIVE TOOLS</text>
+  <text x="64" y="181" fill="#8CB4FF" font-family="monospace" font-size="12">BUILDING SYSTEMS PEOPLE CAN FEEL</text>
+</svg>
