@@ -56,15 +56,17 @@
 
 ## GitHub Stats
 
-<a href="https://github.com/JunnnnyWon">
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JunnnnyWon&theme=react&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF&ring_color=00D9FF"/>
-</a>
-<a href="https://github.com/JunnnnyWon">
+</p>
+
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JunnnnyWon&theme=react&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF&ring_color=00D9FF"/>
-</a>
-<a href="https://github.com/JunnnnyWon">
+</p>
+
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JunnnnyWon&theme=react&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF&ring_color=00D9FF"/>
-</a>
+</p>
 
 ---
 
