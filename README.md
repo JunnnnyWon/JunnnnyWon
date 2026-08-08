@@ -71,7 +71,7 @@
 <table>
 <tr>
 
-<td width="50%" valign="top" style="padding-bottom: 40px;">
+<td width="50%" valign="top">
 
 ### [Atlas](https://github.com/JunnnnyWon/atlas)
 *AI Workspace for Web Novel Creation*
@@ -80,10 +80,15 @@
 <img src="https://img.shields.io/badge/AI-OpenAI-412991?style=flat-square"/>
 
 > Collaborative AI-powered platform for writing and publishing web novels
+>
+>
+>
+>
+>
 
 </td>
 
-<td width="50%" valign="top" style="padding-bottom: 40px;">
+<td width="50%" valign="top">
 
 ### [Vibeton](https://github.com/JunnnnyWon/vibeton)
 *Photo-to-Keyring Design Service*
@@ -93,13 +98,18 @@
 <img src="https://img.shields.io/badge/Gemini-Google-4285F4?style=flat-square"/>
 
 > Upload a photo, design a custom keyring with AI, and order it delivered
+>
+>
+>
+>
+>
 
 </td>
 
 </tr>
 <tr>
 
-<td width="50%" valign="top" style="padding-bottom: 40px;">
+<td width="50%" valign="top">
 
 ### [comfyui-modal](https://github.com/JunnnnyWon/comfyui-modal)
 *Auto-Deploy ComfyUI on GPU Cloud*
@@ -108,10 +118,15 @@
 <img src="https://img.shields.io/badge/Modal-Cloud-4A90E2?style=flat-square"/>
 
 > One-click deployment of ComfyUI workflows on cloud GPU instances
+>
+>
+>
+>
+>
 
 </td>
 
-<td width="50%" valign="top" style="padding-bottom: 40px;">
+<td width="50%" valign="top">
 
 ### [Moido](https://github.com/JunnnnyWon/moido)
 *Map Planner for Place Exploration*
@@ -120,13 +135,18 @@
 <img src="https://img.shields.io/badge/Maps-API-4285F4?style=flat-square"/>
 
 > Connect place discovery with travel scheduling
+>
+>
+>
+>
+>
 
 </td>
 
 </tr>
 <tr>
 
-<td width="50%" valign="top" style="padding-bottom: 40px;" colspan="2">
+<td width="50%" valign="top" colspan="2">
 
 ### [PLA Return](https://github.com/JunnnnyWon/pla-return)
 *3D Printing & Ordering Service*
@@ -135,6 +155,11 @@
 <img src="https://img.shields.io/badge/AI-Commerce-10B981?style=flat-square"/>
 
 > Full-stack 3D printing marketplace with AI-powered design tools
+>
+>
+>
+>
+>
 
 </td>
 
