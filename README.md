@@ -56,13 +56,14 @@
 
 ## GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JunnnnyWon&theme=react&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF&ring_color=00D9FF"/>
+</p>
 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JunnnnyWon&theme=react&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF&ring_color=00D9FF"/>
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JunnnnyWon&theme=react&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF&ring_color=00D9FF"/>
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JunnnnyWon&theme=react&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF&ring_color=00D9FF"/>
-
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JunnnnyWon&theme=react&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF&ring_color=00D9FF"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JunnnnyWon&theme=react&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF&ring_color=00D9FF"/>
+</p>
 
 ---
 
