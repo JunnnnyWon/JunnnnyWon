@@ -71,7 +71,7 @@
 <table>
 <tr>
 
-<td width="50%" valign="top" style="padding-bottom: 20px;">
+<td width="50%" valign="top" style="padding-bottom: 40px;">
 
 ### [Atlas](https://github.com/JunnnnyWon/atlas)
 *AI Workspace for Web Novel Creation*
@@ -83,7 +83,7 @@
 
 </td>
 
-<td width="50%" valign="top" style="padding-bottom: 20px;">
+<td width="50%" valign="top" style="padding-bottom: 40px;">
 
 ### [Vibeton](https://github.com/JunnnnyWon/vibeton)
 *Photo-to-Keyring Design Service*
@@ -99,7 +99,7 @@
 </tr>
 <tr>
 
-<td width="50%" valign="top" style="padding-bottom: 20px;">
+<td width="50%" valign="top" style="padding-bottom: 40px;">
 
 ### [comfyui-modal](https://github.com/JunnnnyWon/comfyui-modal)
 *Auto-Deploy ComfyUI on GPU Cloud*
@@ -111,7 +111,7 @@
 
 </td>
 
-<td width="50%" valign="top" style="padding-bottom: 20px;">
+<td width="50%" valign="top" style="padding-bottom: 40px;">
 
 ### [Moido](https://github.com/JunnnnyWon/moido)
 *Map Planner for Place Exploration*
@@ -126,7 +126,7 @@
 </tr>
 <tr>
 
-<td width="50%" valign="top" style="padding-bottom: 20px;" colspan="2">
+<td width="50%" valign="top" style="padding-bottom: 40px;" colspan="2">
 
 ### [PLA Return](https://github.com/JunnnnyWon/pla-return)
 *3D Printing & Ordering Service*
