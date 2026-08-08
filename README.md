@@ -68,103 +68,37 @@
 
 ## Featured Projects
 
-<table>
-<tr>
+<p></p>
 
-<td width="50%" valign="top">
-
-### [Atlas](https://github.com/JunnnnyWon/atlas)
-*AI Workspace for Web Novel Creation*
-
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI-OpenAI-412991?style=flat-square"/>
+### [Atlas](https://github.com/JunnnnyWon/atlas) &nbsp;&nbsp; ![](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![](https://img.shields.io/badge/AI-OpenAI-412991?style=flat-square)
 
 > Collaborative AI-powered platform for writing and publishing web novels
->
->
->
->
->
 
-</td>
+<p></p>
 
-<td width="50%" valign="top">
-
-### [Vibeton](https://github.com/JunnnnyWon/vibeton)
-*Photo-to-Keyring Design Service*
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gemini-Google-4285F4?style=flat-square"/>
+### [Vibeton](https://github.com/JunnnnyWon/vibeton) &nbsp;&nbsp; ![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![](https://img.shields.io/badge/Gemini-Google-4285F4?style=flat-square)
 
 > Upload a photo, design a custom keyring with AI, and order it delivered
->
->
->
->
->
 
-</td>
+<p></p>
 
-</tr>
-<tr>
-
-<td width="50%" valign="top">
-
-### [comfyui-modal](https://github.com/JunnnnyWon/comfyui-modal)
-*Auto-Deploy ComfyUI on GPU Cloud*
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Modal-Cloud-4A90E2?style=flat-square"/>
+### [comfyui-modal](https://github.com/JunnnnyWon/comfyui-modal) &nbsp;&nbsp; ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![](https://img.shields.io/badge/Modal-Cloud-4A90E2?style=flat-square)
 
 > One-click deployment of ComfyUI workflows on cloud GPU instances
->
->
->
->
->
 
-</td>
+<p></p>
 
-<td width="50%" valign="top">
-
-### [Moido](https://github.com/JunnnnyWon/moido)
-*Map Planner for Place Exploration*
-
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Maps-API-4285F4?style=flat-square"/>
+### [Moido](https://github.com/JunnnnyWon/moido) &nbsp;&nbsp; ![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/Maps-API-4285F4?style=flat-square)
 
 > Connect place discovery with travel scheduling
->
->
->
->
->
 
-</td>
+<p></p>
 
-</tr>
-<tr>
-
-<td width="50%" valign="top" colspan="2">
-
-### [PLA Return](https://github.com/JunnnnyWon/pla-return)
-*3D Printing & Ordering Service*
-
-<img src="https://img.shields.io/badge/3D%20Printing-FF6B6B?style=flat-square"/>
-<img src="https://img.shields.io/badge/AI-Commerce-10B981?style=flat-square"/>
+### [PLA Return](https://github.com/JunnnnyWon/pla-return) &nbsp;&nbsp; ![](https://img.shields.io/badge/3D%20Printing-FF6B6B?style=flat-square) ![](https://img.shields.io/badge/AI-Commerce-10B981?style=flat-square)
 
 > Full-stack 3D printing marketplace with AI-powered design tools
->
->
->
->
->
 
-</td>
-
-</tr>
-</table>
+<p></p>
 
 ---
 
