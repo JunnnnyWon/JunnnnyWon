@@ -58,14 +58,7 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JunnnnyWon&theme=react&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF&ring_color=00D9FF"/>
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JunnnnyWon&theme=react&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF&ring_color=00D9FF"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JunnnnyWon&theme=react&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF&ring_color=00D9FF"/>
 </p>
 
 ---
